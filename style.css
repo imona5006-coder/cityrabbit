@@ -32,3 +32,11 @@ div {
     width:60px;
     height:20px;
 }
+footer {
+    background-color:grey; 
+    color: #ffffff ;            
+    padding: 40px 20px;        
+    text-align: center ;       
+    font-size: 14px ; 
+    margin-top: 590px;          
+}
