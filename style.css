@@ -1,10 +1,16 @@
 body { 
     background-image: url('background.jpg');
 }
+h1 {
+    font-size: 70px;
+    color:gray;
+    text-align: center;
+    font-family: 'times new roman', sans-serif;
+}
 ul li a { 
     font-size: 20px;
     color: black;
-    margin-left: 5px;
+    margin-left: 20px;
 }
 ul {
     list-style-type: none;
